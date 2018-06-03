@@ -1,0 +1,7 @@
+{
+  "name": "polymerjs-tree",
+  "short_name": "polymerjs-tree",
+  "description": "Polymer Tree and Leaf",
+  "start_url": "/",
+  "display": "standalone"
+}
