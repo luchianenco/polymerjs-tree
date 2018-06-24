@@ -12,7 +12,7 @@ export default class PolymerjsTreeApp {
   }
 
   createTree() {
-      document.getElementById("app").appendChild(this._createElement(this.data));
+      return this._createElement(this.data);
   }
 
   _createElement(data) {
