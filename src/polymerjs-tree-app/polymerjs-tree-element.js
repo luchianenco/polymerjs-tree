@@ -5,9 +5,6 @@ import {html, PolymerElement} from '@polymer/polymer/polymer-element.js';
  * @polymer
  */
 class PolymerjsTreeElement extends PolymerElement {
-    constructor() {
-        super();
-    }
 
     static get template() {
         return html`<ul class="tree">
